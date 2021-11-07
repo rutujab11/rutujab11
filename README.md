@@ -1,4 +1,5 @@
-<h2 align="center"> 👋 Hi, I’m Rutuja </h2>
+<h2 align = 'center'> Hi, I’m Rutuja </h2>
+
 - I’m passionate about using Data Science and Data Analytics for producing tangible results to obtain rich insights with the power of data to help businesses take the best decisions about strategy, growth and improving work/process efficiency.
 - My current learnings and project explorations are in these domains:
 
