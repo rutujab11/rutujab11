@@ -1,6 +1,6 @@
 <h2 align = 'center'> Hi, I’m Rutuja </h2>
 
-- A data aficionado with a strong educational background in Computer Science, keenly interested in combining my technical skills with business acumen to implement data-driven solutions for healthcare
+- A data aficionado with a strong educational background in Computer Science, keenly interested in combining my technical skills with business acumen to implement data-driven solutions.
 - My current learnings and project explorations are in these domains:
 
     •   **Data Science**- Data Mining, Data Analysis, Predictive Modelling
@@ -12,7 +12,7 @@
     •	**Deep Learning**- ANN, CNN, Auto Encoders
  
 - <h3> Connect with me </h3>
-  <a href = 'https://www.linkedin.com/in/rutuja-bhandigani-758796195'> <img width = '20px' align= 'center'        src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
+  <a href = 'https://www.linkedin.com/in/rutuja-bhandigani/'> <img width = '20px' align= 'center'        src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
   
   rutuja.bhandigani@gmail.com
 
