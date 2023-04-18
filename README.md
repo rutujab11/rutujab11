@@ -1,6 +1,6 @@
 <h2 align = 'center'> Hi, I’m Rutuja </h2>
 
-- A data aficionado with a strong educational background in Computer Science, keenly interested in combining my technical skills with business acumen to implement data-driven solutions.
+- A data science aficionado with a strong educational background in Computer Science, keenly interested in combining my technical skills with business acumen to implement data-driven solutions.
 - My current learnings and project explorations are in these domains:
 
     •   **Data Science**- Data Mining, Data Analysis, Predictive Modelling
