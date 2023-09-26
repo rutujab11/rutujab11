@@ -14,7 +14,7 @@
 - <h3> Connect with me </h3>
   <a href = 'https://www.linkedin.com/in/rutuja-bhandigani/'> <img width = '20px' align= 'center'        src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
   
-  rutuja.bhandigani@gmail.com
+  rutuja.bhandigani@gmail.com <br>
   bhandiga@usc.edu
 
 <!---
