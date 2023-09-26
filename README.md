@@ -7,7 +7,7 @@
     
     •	**Machine Learning**- Statistical Machine Learning techniques and Algorithms, Marketing Mix Models
     
-    •	**Natural Language Processing**- Text Summarization, Text-to-Speech and Speech-to-Text conversion, Sentiment Analysis and Opinion Mining
+    •	**Natural Language Processing**- HMMs for POS tagging, Word Embedding, LSTMs, Text Summarization, Text-to-Speech and Speech-to-Text conversion, Sentiment Analysis and Opinion Mining
     
     •	**Deep Learning**- ANN, CNN, RNN, Auto Encoders
  
