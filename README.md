@@ -15,6 +15,7 @@
   <a href = 'https://www.linkedin.com/in/rutuja-bhandigani/'> <img width = '20px' align= 'center'        src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
   
   rutuja.bhandigani@gmail.com
+  bhandiga@usc.edu
 
 <!---
 rutujab11/rutujab11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
