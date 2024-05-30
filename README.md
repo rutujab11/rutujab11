@@ -9,7 +9,7 @@
     
     •	**Natural Language Processing**- HMMs for POS tagging, Word Embedding, LSTMs, Text Summarization, Text-to-Speech and Speech-to-Text conversion, Sentiment Analysis and Opinion Mining
     
-    •	**Deep Learning**- ANN, CNN, RNN, Auto Encoders
+    •	**Deep Learning**- ANN, CNN, RNN, Auto Encoders, GAN
  
 - <h3> Connect with me </h3>
   <a href = 'https://www.linkedin.com/in/rutuja-bhandigani/'> <img width = '20px' align= 'center'        src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
