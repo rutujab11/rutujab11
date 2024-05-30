@@ -12,10 +12,12 @@
     •	**Deep Learning**- ANN, CNN, RNN, Auto Encoders, GAN
  
 - <h3> Connect with me </h3>
-  <a href = 'https://www.linkedin.com/in/rutuja-bhandigani/'> <img width = '20px' align= 'center'        src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
   
   rutuja.bhandigani@gmail.com <br>
-  bhandiga@usc.edu
+
+  <br>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rutujabhandigani&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 rutujab11/rutujab11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
