@@ -11,14 +11,22 @@
     
     •	**Deep Learning**- ANN, CNN, RNN, Auto Encoders, GAN
  
-- <h3> Connect with me </h3>
-  
-  rutuja.bhandigani@gmail.com <br>
+
 
   <br>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rutujabhandigani&layout=compact&hide_border=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<h2>📫 How to reach me:</h2>
+
+<a href="mailto:rutuja.bhandigani@gmail.com">![pawaskas@uci.edu](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
+ <a href="https://www.linkedin.com/in/rutuja-bhandigani/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
+<!---
+<div align="center">
+ <img src="https://komarev.com/ghpvc/?username=rutujabhandigani&style=for-the-badge&color=orange" width="200" />
+</div>
+--->
 <!---
 rutujab11/rutujab11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
