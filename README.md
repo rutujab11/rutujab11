@@ -3,9 +3,9 @@
 - A data science aficionado with a strong educational and professional background in Data Science & Advanced Analytics, keenly interested in combining my technical skills with business acumen to implement data-driven solutions.
 - My current learnings and project explorations are in these domains:
 
-    •   **Data Science**- Data Mining, Big Data Analysis, Predictive Modeling
+    •   **Data Science**- Data Mining, Big Data Analysis, Recommender Systems, Predictive Modeling, Forecasting, Dashboard Building
     
-    •	**Machine Learning**- Statistical Machine Learning techniques and Algorithms, Marketing Mix Models
+    •	**Machine Learning**- Regression, Classification, Clustering, Marketing Mix Models, Generalized Linear Models, Linear Mixed-Effect Models
     
     •	**Natural Language Processing**- HMMs for POS tagging, Word Embedding, LSTMs, Text Summarization, Text-to-Speech and Speech-to-Text conversion, Sentiment Analysis and Opinion Mining
     
